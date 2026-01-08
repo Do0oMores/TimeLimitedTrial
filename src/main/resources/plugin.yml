@@ -3,3 +3,7 @@ version: '1.0'
 main: top.mores.timeLimitedTrial.TimeLimitedTrial
 api-version: '1.20'
 authors: [ Mores ]
+commands:
+  timelimit:
+    description: Time limited trial command
+    usage: /timelimit add <?h>
